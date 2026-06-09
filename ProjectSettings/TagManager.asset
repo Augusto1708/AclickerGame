@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemigo
+  - Casa
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Arboles
+  - Enemigos
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: FondoFondo
+    uniqueID: 2076767003
+    locked: 0
+  - name: Fondo2
+    uniqueID: 1680348359
+    locked: 0
+  - name: Fondo1
+    uniqueID: 1277062129
+    locked: 0
+  - name: Suelo
+    uniqueID: 2662935119
+    locked: 0
+  - name: Enemigos
+    uniqueID: 200643391
+    locked: 0
+  - name: Arboles
+    uniqueID: 2677290653
+    locked: 0
+  - name: Adornos
+    uniqueID: 3971995093
+    locked: 0
+  - name: Casa
+    uniqueID: 1063830427
+    locked: 0
